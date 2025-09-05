@@ -29,7 +29,7 @@ pip install scapy
 ## ▶️ Usage
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/mini-ids.git
+   git clone https://github.com/itsdasharath/mini-ids.git
    cd mini-ids
    ```
 
